@@ -1,0 +1,17 @@
+C:\Users\MIMI\source\repos\project4form\project4form\bin\Debug\net6.0-windows\project4form.exe
+C:\Users\MIMI\source\repos\project4form\project4form\bin\Debug\net6.0-windows\project4form.deps.json
+C:\Users\MIMI\source\repos\project4form\project4form\bin\Debug\net6.0-windows\project4form.runtimeconfig.json
+C:\Users\MIMI\source\repos\project4form\project4form\bin\Debug\net6.0-windows\project4form.dll
+C:\Users\MIMI\source\repos\project4form\project4form\bin\Debug\net6.0-windows\project4form.pdb
+C:\Users\MIMI\source\repos\project4form\project4form\obj\Debug\net6.0-windows\project4form.csproj.AssemblyReference.cache
+C:\Users\MIMI\source\repos\project4form\project4form\obj\Debug\net6.0-windows\project4form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIMI\source\repos\project4form\project4form\obj\Debug\net6.0-windows\project4form.AssemblyInfoInputs.cache
+C:\Users\MIMI\source\repos\project4form\project4form\obj\Debug\net6.0-windows\project4form.AssemblyInfo.cs
+C:\Users\MIMI\source\repos\project4form\project4form\obj\Debug\net6.0-windows\project4form.csproj.CoreCompileInputs.cache
+C:\Users\MIMI\source\repos\project4form\project4form\obj\Debug\net6.0-windows\project4form.dll
+C:\Users\MIMI\source\repos\project4form\project4form\obj\Debug\net6.0-windows\refint\project4form.dll
+C:\Users\MIMI\source\repos\project4form\project4form\obj\Debug\net6.0-windows\project4form.pdb
+C:\Users\MIMI\source\repos\project4form\project4form\obj\Debug\net6.0-windows\project4form.genruntimeconfig.cache
+C:\Users\MIMI\source\repos\project4form\project4form\obj\Debug\net6.0-windows\ref\project4form.dll
+C:\Users\MIMI\source\repos\project4form\project4form\obj\Debug\net6.0-windows\project4form.Form1.resources
+C:\Users\MIMI\source\repos\project4form\project4form\obj\Debug\net6.0-windows\project4form.csproj.GenerateResource.cache

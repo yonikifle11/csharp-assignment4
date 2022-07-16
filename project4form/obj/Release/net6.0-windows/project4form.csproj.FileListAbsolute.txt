@@ -1,0 +1,7 @@
+C:\Users\MIMI\source\repos\project4form\project4form\obj\Release\net6.0-windows\project4form.csproj.AssemblyReference.cache
+C:\Users\MIMI\source\repos\project4form\project4form\obj\Release\net6.0-windows\project4form.Form1.resources
+C:\Users\MIMI\source\repos\project4form\project4form\obj\Release\net6.0-windows\project4form.csproj.GenerateResource.cache
+C:\Users\MIMI\source\repos\project4form\project4form\obj\Release\net6.0-windows\project4form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIMI\source\repos\project4form\project4form\obj\Release\net6.0-windows\project4form.AssemblyInfoInputs.cache
+C:\Users\MIMI\source\repos\project4form\project4form\obj\Release\net6.0-windows\project4form.AssemblyInfo.cs
+C:\Users\MIMI\source\repos\project4form\project4form\obj\Release\net6.0-windows\project4form.csproj.CoreCompileInputs.cache
